@@ -1,3 +1,5 @@
+package com.array.programs;
+
 import java.util.Arrays;
   
 public class MaxAndMinIntegers {
